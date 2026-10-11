@@ -1,0 +1,41 @@
+name: 조직 참여하기
+description: 인하대학교 학우들의 GitHub 협업 공간에 참여를 요청합니다.
+title: "[참여] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 함께할 학우를 환영합니다
+        프로젝트나 역할이 아직 정해지지 않았어도 괜찮습니다.
+        이 양식은 **inha-oss 조직 참여 요청**을 위한 것입니다.
+        관리자가 요청을 확인한 뒤 GitHub 초대를 안내합니다.
+        공개 이슈이므로 학번, 이메일, 전화번호나 증빙 자료는 적지 마세요.
+        초대할 GitHub 계정은 이 이슈를 작성한 계정으로 확인합니다.
+  - type: textarea
+    id: introduction
+    attributes:
+      label: 간단히 인사해주세요
+      description: 학우들에게 보여줄 짧은 소개와 참여하고 싶은 이유를 자유롭게 적어주세요.
+      placeholder: 안녕하세요. 다른 전공의 학우들과 프로젝트를 해보고 싶어 참여를 요청합니다. 아직 경험은 많지 않지만 작은 작업부터 함께하고 싶습니다.
+    validations:
+      required: true
+  - type: textarea
+    id: interests
+    attributes:
+      label: 관심 분야나 함께해보고 싶은 일 (선택)
+      description: 개발, 기획, 디자인, 문서, 검토 등 어떤 관심이든 좋습니다. 아직 정하지 못했다면 비워두셔도 됩니다.
+      placeholder: 웹 개발에 관심이 있어요. 작은 작업부터 참여하며 같이할 동료를 만나고 싶습니다.
+    validations:
+      required: false
+  - type: textarea
+    id: questions
+    attributes:
+      label: 궁금한 점이나 하고 싶은 말 (선택)
+      placeholder: 참여 방법이나 GitHub 사용에 관해 궁금한 점이 있다면 남겨주세요.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        요청을 남긴 뒤 GitHub 알림과 이메일에서 초대를 확인해주세요.
+        추가로 확인할 내용이 있으면 관리자가 안내합니다. 민감한 정보를 공개 댓글에 남기지 마세요.

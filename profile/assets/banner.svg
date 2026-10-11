@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+<title id="t">인하대학교 OSS · Open Source Software — 코드를 나누고, 가능성을 더하다</title><desc id="d">OSS는 Open Source Software의 약자입니다. 코드를 나누고, 가능성을 더하다. 인하대학교 학생들의 아이디어가 함께 만드는 소프트웨어로 이어집니다.</desc>
+<defs><linearGradient id="b" x2="1" y2=".7"><stop stop-color="#092d55"/><stop offset="1" stop-color="#064b75"/></linearGradient></defs>
+<rect width="1200" height="360" rx="12" fill="url(#b)"/>
+<path d="M0 338H1200" stroke="#60c3e2" stroke-opacity=".3"/>
+<text x="64" y="70" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#91c9e3">INHA UNIVERSITY</text>
+<text x="60" y="142" font-family="Arial,'Noto Sans KR',sans-serif" font-size="57" font-weight="700" letter-spacing="-2" fill="#fff">인하대학교 OSS</text>
+<text x="64" y="180" font-family="Arial,sans-serif" font-size="18" letter-spacing="1.5" fill="#91c9e3">OSS · OPEN SOURCE SOFTWARE</text>
+<text x="64" y="238" font-family="Arial,'Noto Sans KR',sans-serif" font-size="29" font-weight="600" fill="#fff">코드를 나누고, 가능성을 더하다</text>
+<text x="64" y="277" font-family="Arial,'Noto Sans KR',sans-serif" font-size="18" fill="#b7d5e7">인하대학교 학생들의 아이디어가</text>
+<text x="64" y="304" font-family="Arial,'Noto Sans KR',sans-serif" font-size="18" fill="#b7d5e7">함께 만드는 소프트웨어로 이어집니다.</text>
+<g fill="none" stroke="#7bbcd8" stroke-width="1.5"><path d="M803 121H846V82H924M955 252H1007V294H1090"/><circle cx="803" cy="121" r="4"/><circle cx="1090" cy="294" r="4"/></g>
+<rect x="858" y="56" width="252" height="166" rx="10" fill="#eff7fb"/>
+<path d="M858 86H1110" stroke="#d0e2ed"/>
+<g fill="#94b9cc"><circle cx="875" cy="71" r="3"/><circle cx="887" cy="71" r="3"/><circle cx="899" cy="71" r="3"/></g>
+<rect x="881" y="109" width="126" height="8" rx="4" fill="#245f83"/>
+<rect x="881" y="130" width="196" height="5" rx="2.5" fill="#bdd4e1"/>
+<rect x="881" y="145" width="157" height="5" rx="2.5" fill="#bdd4e1"/>
+<rect x="881" y="172" width="66" height="26" rx="6" fill="#dceef5"/><path d="M895 185h37" stroke="#598ca9" stroke-width="3" stroke-linecap="round"/>
+<rect x="797" y="199" width="253" height="110" rx="10" fill="#d9edf6" stroke="#fff" stroke-opacity=".7"/>
+<g fill="none" stroke="#23678c" stroke-width="2" stroke-linecap="round"><circle cx="833" cy="237" r="9"/><path d="M818 265v-4a15 15 0 0 1 30 0v4"/></g>
+<rect x="867" y="230" width="153" height="7" rx="3.5" fill="#357496"/><rect x="867" y="249" width="122" height="5" rx="2.5" fill="#9cbed1"/><rect x="867" y="265" width="94" height="5" rx="2.5" fill="#9cbed1"/>
+</svg>

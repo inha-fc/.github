@@ -1,0 +1,62 @@
+name: 협업 제안하기
+description: 함께 만들 프로젝트나 도움이 필요한 작업을 학우들에게 제안합니다.
+title: "[협업] "
+labels: ["help wanted"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 같이할 학우를 찾고 있나요?
+        완성된 계획이 없어도 괜찮습니다. 하고 싶은 일과 필요한 도움부터 알려주세요.
+        이 양식은 **inha-oss/.github의 학우 협업 제안**을 위한 것입니다.
+        작성한 내용은 공개됩니다. 공개 권한이 없는 자료나 개인정보는 적지 마세요.
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 어떤 일을 함께하고 싶나요?
+      description: 해결하고 싶은 문제와 만들어보고 싶은 결과를 간단히 설명해주세요.
+      placeholder: 수업 팀 프로젝트로 학우들이 함께 쓸 도구를 만들고 싶어요. 아직 아이디어 단계이고, 방향부터 같이 이야기하고 싶습니다.
+    validations:
+      required: true
+  - type: textarea
+    id: help
+    attributes:
+      label: 어떤 동료나 도움이 필요한가요?
+      description: 함께할 역할이나 논의하고 싶은 내용을 적어주세요. 기술이 정해지지 않았다면 그대로 알려주세요.
+      placeholder: 저는 서버 개발을 맡을 수 있어요. 화면 설계를 함께 고민할 분과 사용해보고 의견을 주실 분을 찾습니다.
+    validations:
+      required: true
+  - type: dropdown
+    id: stage
+    attributes:
+      label: 지금은 어느 단계인가요?
+      options:
+        - 아이디어부터 함께 이야기하고 싶어요
+        - 시작할 준비를 하고 있어요
+        - 이미 진행 중인 작업에 동료를 찾고 있어요
+    validations:
+      required: false
+  - type: textarea
+    id: working-style
+    attributes:
+      label: 함께 작업하는 방식 (선택)
+      description: 가능한 시간대, 온라인·대면 선호, 수업 제출일 등 함께할 학우가 알아두면 좋은 내용을 적어주세요.
+      placeholder: 수업이 없는 시간에 댓글로 이야기하고, 필요하면 온라인으로 만나면 좋겠습니다.
+    validations:
+      required: false
+  - type: textarea
+    id: references
+    attributes:
+      label: 참고할 자료와 링크 (선택)
+      description: 공개해도 되는 저장소, 초안, 관련 자료가 있다면 남겨주세요. 링크가 없어도 괜찮습니다.
+      placeholder: 저장소 주소나 간단한 초안을 남겨주세요.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        제안에 관심 있는 학우는 이슈 댓글로 함께 이야기해주세요.
+        예: “관심 있습니다! 화면 개발을 도울 수 있고, 주말에 참여 가능합니다. 먼저 함께할 작업이 있을까요?”
+        경험이 적다면 질문, 사용 후기, 문서 정리부터 제안해도 좋습니다.
+        [참여 댓글 예시 보기](https://github.com/inha-oss/.github/blob/main/docs/community-replies.md#학우의-참여-댓글)
+        연락은 먼저 GitHub 댓글로 이어가면 됩니다. 개인 연락처를 공개할 필요는 없습니다.

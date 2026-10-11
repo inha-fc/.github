@@ -1,82 +1,130 @@
-# 👋 이 그룹에 참여하게 된 걸 진심으로 환영합니다.
+<p>
+  <img src="https://raw.githubusercontent.com/inha-oss/.github/main/profile/assets/banner.svg" width="100%" alt="인하대학교 OSS · Open Source Software — 코드를 나누고, 가능성을 더하다. 인하대학교 학생들의 아이디어가 함께 만드는 소프트웨어로 이어집니다." />
+</p>
 
-## GitHub 조직에 등록하는 방법
+인하대학교 학생 누구나 오픈소스 프로젝트와 협업에 참여할 수 있습니다.<br />
+수업, 동아리, 개인 프로젝트까지. 전공과 경험에 관계없이 동료를 찾고, 코드를 공유하고, 함께 개선해보세요.
 
-GitHub 조직에 참여를 원하시면 해당 저장소의 이슈를 작성하여 게시글을 작성하시면 됩니다. 관리자가 확인 후 멤버 권한을 부여해드릴 것입니다. 이 과정을 따르세요:
+<p>
+  <a href="https://oss.inha.ac.kr"><img src="https://raw.githubusercontent.com/inha-oss/.github/main/profile/assets/homepage.svg" width="23%" alt="인하대학교 OSS 홈페이지" /></a>
+  <a href="https://github.com/inha-oss?tab=repositories"><img src="https://raw.githubusercontent.com/inha-oss/.github/main/profile/assets/repositories.svg" width="23%" alt="저장소 둘러보기" /></a>
+  <a href="https://github.com/inha-oss/.github/issues/new?template=collaboration.yml"><img src="https://raw.githubusercontent.com/inha-oss/.github/main/profile/assets/collaborate.svg" width="23%" alt="협업 제안하기" /></a>
+  <a href="https://github.com/inha-oss/.github/issues/new?template=join.yml"><img src="https://raw.githubusercontent.com/inha-oss/.github/main/profile/assets/join.svg" width="23%" alt="조직 참여하기" /></a>
+</p>
 
-1. [등록 요청하기](https://github.com/inha-fc/.github/issues)을 클릭해주세요
-2. 상단 탭에서 Issues를 클릭하세요.
-3. 오른쪽 상단에 있는 초록색 New issue 버튼을 클릭하세요.
-4. Title과 Leave a comment 섹션에 요청 내용을 작성하세요. 예를 들어, 조직 참여를 원한다는 내용을 작성해주세요
-5. 작성이 완료되면 하단의 Submit new issue 버튼을 클릭하여 이슈를 생성하세요.
-6. 관리자가 해당 이슈를 확인한 후, 멤버 권한을 부여하게 됩니다. 이메일이나 GitHub에서 알림을 확인하세요.
-7. 이제 GitHub 조직에 참여하실 수 있습니다. 조직의 멤버로 등록되면 해당 조직의 프로젝트에 기여하거나, 토론에 참여하실 수 있습니다.
+---
 
-## Github에 학교 이메일 등록하기
+### 이런 일이 있을 때 함께해요
 
-Github 계정에 이메일을 등록하려면 다음 단계를 따르세요:
+**함께할 사람이 필요할 때**<br />
+수업 팀 프로젝트, 동아리 활동, 개인 프로젝트, 같이 해결하고 싶은 문제를 제안해주세요. 하고 싶은 일과 필요한 도움을 적으면 협업을 시작하기 좋습니다.
 
-1. Github에 로그인한 후 상단 오른쪽에 있는 프로필 아이콘을 클릭하고 Settings를 선택하세요.
-2. 왼쪽 사이드바에서 Emails를 클릭하세요.
-3. Add email address 섹션에 인하대학교 이메일 주소(예: honggildong@inha.edu)를 입력한 후 Add 버튼을 클릭하세요.
-4. 이메일 인증 메일이 인하대학교 이메일로 발송됩니다. 이메일을 확인하고, 인증 메일에 있는 링크를 클릭해 이메일 주소를 인증하세요.
-5. Github Emails 설정 페이지로 돌아와서, 인하대학교 이메일 주소 옆에 있는 Set as primary 버튼을 클릭하여 기본 이메일로 설정하세요. 이렇게 하면 Github에서 사용되는 모든 통신에 해당 이메일이 사용됩니다. (필수 아님)
-6. 이제 인하대학교 이메일 주소가 Github 계정에 등록되었습니다.
+**같이 작업할 공간이 필요할 때**<br />
+코드와 문서를 저장소에 모으고, 이슈에서 할 일을 나누고, Pull Request로 변경 내용을 검토하세요. 각자 가능한 시간에 작업하면서도 진행 상황을 함께 볼 수 있습니다.
 
-## Git 사용자 정보 설정하기: 이름과 이메일 변경 방법
+**다른 경험이 필요할 때**<br />
+개발뿐 아니라 기획, 디자인, 문서, 검토로도 참여할 수 있습니다. 서로 다른 전공과 경험, 관심 분야가 다른 학우의 작업에 도움이 될 수 있습니다.
 
-Git [공식홈페이지](https://git-scm.com/downloads)에서 Git 설치 후 맥OS(macOS)와 리눅스(Linux)에서는 Terminal(터미널)을 열고 Windows(윈도우)의 경우 Powershell(파워셀)을 실행해주세요 그리고 이 과정을 따르세요:
+관심 있는 협업 제안이 있다면 해당 이슈에 댓글로 참여 의사를 남겨주세요.
 
-1. 홍길동으로 이름을 설정하기
-``` sh
-$ git config --global user.name "Hong Gildong"
+> 관심 있습니다! 화면 개발을 도울 수 있고, 주말에 참여 가능합니다. 먼저 함께할 작업이 있을까요?
+
+역할이 정해지지 않았어도 질문부터 시작할 수 있습니다. [다른 참여 댓글 예시](https://github.com/inha-oss/.github/blob/main/docs/community-replies.md#학우의-참여-댓글)도 참고해주세요.
+
+### 처음 오신 학우라면
+
+[조직 참여 요청](https://github.com/inha-oss/.github/issues/new?template=join.yml)에 간단한 소개와 관심 분야를 남겨주세요. 관리자가 확인한 뒤 초대를 안내합니다. 처음부터 프로젝트가 정해져 있지 않아도 괜찮습니다.
+
+### 작업하다 막힐 때 꺼내 보는 자료
+
+| 자료 | 필요할 때 |
+| :--- | :--- |
+| [Pro Git · 한국어](https://git-scm.com/book/ko/v2) | Git 기본 개념부터 브랜치와 협업 흐름까지 차근차근 확인하기 |
+| [GitHub 시작 안내](https://docs.github.com/ko/get-started/start-your-journey/git-and-github-learning-resources) | GitHub 사용법과 학습 자료 찾아보기 |
+| [Pull Request 만들기](https://docs.github.com/ko/pull-requests/how-tos/create-pull-requests/creating-a-pull-request) | 내 변경 내용을 동료에게 검토 요청하기 |
+| [Learn Git Branching · 한국어](https://learngitbranching.js.org/?locale=ko) | 브랜치와 커밋의 움직임을 화면으로 보며 연습하기 |
+
+<details>
+<summary><strong>자주 쓰는 Git 명령어 · 처음 설정부터 첫 Pull Request까지</strong></summary>
+
+<br />
+
+**처음 한 번 설정하기**
+
+[Git을 설치](https://git-scm.com/downloads)한 뒤 자신의 이름과 이메일로 바꿔 실행하세요.
+
+```sh
+# 커밋에 기록할 작성자 정보
+git config --global user.name "Hong Gildong"
+git config --global user.email "honggildong@inha.edu"
 ```
 
-2. 홍길동으로 이메일 주소를 설정하기
-``` sh
-$ git congig --global user.email "honggildong@inha.edu"
+**저장소 가져오고 작업 브랜치 만들기**
+
+아래 주소와 폴더 이름은 실제 작업할 저장소로 바꿔주세요. 푸시 권한이 없으면 GitHub에서 저장소를 포크하고 자신의 포크 주소를 사용합니다.
+
+```sh
+git clone https://github.com/OWNER/REPOSITORY.git
+cd REPOSITORY
+git switch -c feature/my-work
 ```
 
-3. 정보가 올바르게 입력되었는지 확인하기
-``` sh
-$ git config --list | grep -E 'name|email'
+**변경 확인하고 커밋하기**
+
+```sh
+# 작업 상태와 수정 내용 확인
+git status
+git diff
+
+# 커밋할 파일을 지정하고 저장
+git add README.md
+git diff --staged
+git commit -m "작업 내용 요약"
+
+# 내 브랜치를 GitHub에 올리기
+git push -u origin feature/my-work
 ```
 
-## 프로젝트 기여 방법
+`README.md`는 실제 수정한 파일 이름으로 바꾸고, 커밋 메시지는 해당 저장소의 규칙을 따라주세요. 푸시 후 GitHub에서 Pull Request를 열어 변경 내용과 확인한 결과를 공유합니다.
 
-프로젝트에 기여하려면 다음 단계를 따르세요.
+**동료의 변경 가져오기**
 
-1. 기여하려는 저장소를 포크하세요.
+작업 내용을 먼저 커밋하고 실행하세요. 기본 브랜치 이름이 `main`이 아닌 저장소에서는 해당 이름으로 바꿔주세요.
 
-2. 로컬에 저장소를 복제하세요.
-``` sh
-$ git clone [기여하려는 저장소 주소]
+```sh
+git switch main
+git pull --ff-only
+git switch feature/my-work
+git merge main
 ```
 
-3. 새로운 브랜치를 만드세요.
+충돌이 나면 `git status`로 파일을 확인하고, 동료와 변경 내용을 맞춘 뒤 해결합니다.
 
-``` sh
-$ git checkout -b my-new-feature
-```
+**상태와 기록 빠르게 확인하기**
 
-4. 변경 사항을 커밋하세요.
-``` sh
-$ git commit -am "Add some feature"
-```
+| 명령어 | 용도 |
+| :--- | :--- |
+| `git status` | 현재 브랜치와 수정 파일 확인 |
+| `git diff` | 아직 스테이징하지 않은 변경 확인 |
+| `git diff --staged` | 커밋에 포함할 변경 확인 |
+| `git log --oneline -10` | 최근 커밋 10개 확인 |
+| `git branch` | 로컬 브랜치 목록 확인 |
+| `git remote -v` | 연결된 원격 저장소 주소 확인 |
+| `git help 명령어` | 해당 명령어의 도움말 확인 |
 
-5. 브랜치를 원격 저장소에 푸시하세요.
-``` sh
-$ git push origin my-new-feature
-```
+</details>
 
-6. 원본 저장소에 풀 리퀘스트를 생성하세요.
+<details>
+<summary>참여 안내와 문의</summary>
 
-원하는 프로젝트에 기여하는 방법에 대한 자세한 정보는 해당 프로젝트의 `CONTRIBUTING.md` 파일을 참조하세요.
+<br />
 
-## 연락처
+- 조직 초대는 GitHub 알림과 이메일에서 확인해주세요.
+- 학교 이메일은 [GitHub 이메일 설정](https://github.com/settings/emails)에서 추가할 수 있습니다. 기본 이메일 지정은 선택입니다.
+- 참여할 저장소의 README와 기여 안내를 먼저 확인해주세요.
+- 인하대학교 OSS 홈페이지는 [oss.inha.ac.kr](https://oss.inha.ac.kr)에서 방문할 수 있습니다.
+- GitHub 조직 참여와 협업 관련 문의나 제안은 [이슈](https://github.com/inha-oss/.github/issues)에 남겨주세요.
+- 관리자는 [답변 템플릿](https://github.com/inha-oss/.github/blob/main/docs/community-replies.md#관리자-답변-템플릿)을 참고할 수 있습니다.
+- 공개 공간에는 개인정보나 공개 권한이 없는 자료를 올리지 마세요. 코드 사용 조건은 각 저장소의 `LICENSE`를 확인해주세요.
 
-문의사항이나 건의사항이 있으시면 [이슈](https://github.com/inha-fc/.github/issues) 등록을 통해 요청해주세요
-
-## 라이선스
-
-이 조직에서 제공되는 코드들은 기본적으로 `MIT` 라이선스 기반을 따르고 있습니다. 다만 일부 프로젝트의 경우 제약이 있을 수 있습니다. 자세한 정보는 각 프로젝트 저장소의 [LICENSE](/LICENSE) 파일을 참조하세요.
+</details>
